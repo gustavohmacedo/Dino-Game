@@ -1,0 +1,51 @@
+body {
+  background: rgba(11, 11, 236, 0.589);
+}
+
+.dino {
+  position: absolute;
+  bottom: 0;
+  background-image: url(sonic_transparent.png); /* Alterando o elemnto Dino para Sonic*/
+  width: 80px;
+  height: 80px;
+}
+
+.cactus {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  bottom: 0;
+  background-image: url(anel1.1_transparent.png); /* Alterando o obstáculo Cactus para o obstáculo Anel do Sonic*/
+}
+
+.game-over {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  
+  /*text-align: center;       //Retirando os estilos da mensagem de "Fim de Jogo" p/ adionar uma tela de Game-Over ao fim do jogo.
+  color: #666;
+  margin: 50px 0;
+  font-family: arial;
+  */
+}
+
+@keyframes slideright {
+  from {
+      background-position: 70000%;
+  }
+  to {
+      background-position: 0%;
+  }
+}
+
+.background {
+  position: absolute;
+  bottom: 0px;
+  background-image: url('background-sonic.png'); /* Alterando Imagem de Background;*/
+  background-repeat: repeat-x;
+  animation: slideright 600s infinite linear;
+  -webkit-animation: slideright 600s infinite linear;
+  width: 100%;
+  height: 200px; /*200px*/
+}
