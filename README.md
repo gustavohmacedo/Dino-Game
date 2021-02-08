@@ -1,4 +1,4 @@
-#    Jogo do Super - Sonic ![Jogo Super - Sonic](C:\Users\gusta\Desktop\Dino-Game\Dio-Dino-Game\sonic_transparent.png) 
+#    Jogo do Super - Sonic 
 
 * _**Alteração do Jogo Dino, do Chrome, para o Jogo do Super Sonic. :video_game:**_
 
@@ -6,7 +6,7 @@
 
 - **_Seguintes alterações feitas:_**
 
-  **1- **_Mensagem de Fim de Jogo - Game-Over;_
+  **1**- _Mensagem de Fim de Jogo - Game-Over;_
 
   **2**- _Tela de rolagem;_
 
