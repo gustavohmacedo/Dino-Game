@@ -1,6 +1,6 @@
 #    Jogo do Super - Sonic 
 
-* _**Alteração do Jogo Dino, do Chrome, para o Jogo do Super Sonic. :video_game:**_
+##  _**Alteração do Jogo Dino, do Chrome, para o Jogo do Super Sonic. :video_game:**_
 
 - _Foi utilizado HTML, CSS e JavaScript, abordando de maneira simples diversos conceitos introdutórios importantes para programação na web como tags básicas de HTML, manipulação de eventos, funções e manipulação de elementos HTML usando JavaScript, estilização e animações básicas com CSS._
 
